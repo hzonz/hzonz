@@ -2,29 +2,30 @@
   <strong>English</strong> | <a href="./README_CN.md">中文版</a>
 </div>
 
-# 👋 Hi, I'm hzonz | Software "Deconstruction" Specialist
+# 👋 Hi, I'm hzonz | Senior Software "Installation & Deconstruction" Engineer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hzonz&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+### 🛠️ My "Hardcore" Expertise
 
-### 🛠️ My "Hardcore" Skills
+#### 💿 Software Lifecycle Management (The Install/Uninstall Specialist)
+*   **VS Code**: Expert in the full lifecycle from `Setup.exe` to `Add or Remove Programs`. 
+    *   Master at installing 100+ extensions and then uninstalling the whole app because it's too slow.
+    *   Can change 5 themes per hour without writing a single line of code.
+*   **IDE Master**: I can install **IntelliJ**, **PyCharm**, and **Sublime Text** faster than they can index my empty projects.
 
-#### 💿 Software Lifecycle (Installation Expert)
-*   **VS Code**: Professional at installing and uninstalling. I spend 90% of my time choosing themes and 10% waiting for it to restart.
-*   **Other Tools**: I install **Docker** just to see the whale, and **Postman** just to send a "Hello World".
+#### 🤖 AI Relationship & Deployment Manager (The AI Whisperer)
+*   **ChatGPT / Gemini / Claude**: 
+    *   **Strategic Chatting**: Specialized in asking "Are you sure?" three times until the AI apologizes.
+    *   **Advanced Prompting**: My favorite prompt is "Fix this bug, please. I'm crying."
+*   **Local Deployment**: I excel at downloading 40GB LLM models only to realize my GPU has 2GB VRAM, then gracefully deleting them.
 
-#### 🤖 AI Relationship (Professional Prompting)
-*   **ChatGPT / Gemini**: I'm a "Cloud Deployer" (meaning I login via browser). 
-*   **Interaction**: I always say "Please" and "Thank you" to AI, just in case they take over the world.
-*   **Debugging**: My main coding strategy is "Copy from AI -> Paste -> Pray".
-
-#### 🔤 Lexical Precision (Spelling Master)
-*   **JAVA**: 100% accuracy in spelling J-A-V-A. 
-*   **C / C++**: I know exactly how many `+` signs to use.
-*   **Python**: I know it's about **Spaces**, not **Semicolons**.
+#### 🔤 High-Precision Syntax Spelling (Lexical Master)
+*   **JAVA**: Certified expert in spelling all 4 letters in the correct order: J-A-V-A. (Never J-A-A-V).
+*   **C / C++**: Master of the `+` key. I can type `C++` without accidentally typing `C=+`.
+*   **Python**: I can spell "Python" correctly and I know that its soul is made of **spaces**, not **semicolons**.
 
 ---
 
@@ -40,10 +41,6 @@
 ![hzonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=radical)
 
 ---
-
-### 📫 Connect with me
-*   **Motto**: "As long as I reinstall fast enough, bugs can't catch me."
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Life+is+short%2C+I+reinstall+VS+Code.;AI+is+my+best+friend.;I+can+spell+JAVA+perfectly." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Life+is+short%2C+I+reinstall+VS+Code.;AI+is+smart%2C+but+I+am+the+boss.;Spelling+JAVA+correctly+since+day+one." alt="Typing SVG" />
 </p>
