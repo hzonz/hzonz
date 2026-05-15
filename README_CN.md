@@ -2,48 +2,57 @@
   <a href="./README.md">English Version</a> | <strong>中文版</strong>
 </div>
 
+# 👋 嗨，我是 hzonz | 赛博空间的“拆迁与重建”工程师
+
 <p align="center">
-  <!-- 这里的URL编码已经修复 -->
   <img src="https://komarev.com/ghpvc/?username=hzonz&label=%E8%A2%AB%E8%BF%AB%E8%90%A5%E4%B8%9A%E6%AC%A1%E6%95%B0&color=blue&style=flat" />
 </p>
 
-# 👋 嗨，我是 hzonz | 赛博空间的“拆迁与重建”大师
+---
 
-### 🛠️ 我的“顶级”核心技术
+### 🛠️ 我的“顶尖”核心竞争力
 
-#### 💿 软件生命周期管理（资深安装/卸载专家）
+#### 💿 软件生命周期管理 (资深安装/卸载架构师)
 *   **VS Code**: 
-    *   精通从**下载安装**到**彻底卸载**的全链路操作。
-    *   擅长在还没写代码前先换 10 个主题，直到把软件卡死，然后优雅地重装。
-*   **编辑器收藏家**: 熟练掌握 **Cursor**, **Sublime**, **Notepad++** 的循环安装与卸载。
+    *   精通从 **官网下载** 到 **完全卸载** 的全链路闭环操作。
+    *   熟练掌握“**换个颜色主题**”来假装解决了 Bug 的核心技术。
+*   **其他软件**: 擅长安装 **Docker**（只为看那个小鲸鱼）、**Postman**（只用它发 GET 请求）以及各种**编辑器**（装完就卸，主打一个陪伴）。
 
-#### 🤖 顶级 AI 调教与情感陪伴（AI 心理咨询师）
+#### 🤖 顶级 AI 调教与情感陪伴 (AI Response Engineer)
 *   **ChatGPT / Gemini / Claude**: 
-    *   **深度部署**: 擅长在浏览器里输入账号密码，完成“零代码云端部署”。
-    *   **灵魂对话**: 擅长对 AI 发起质疑：“你确定？”并在 AI 道歉后感到莫名的快乐。
-    *   **礼貌大使**: 始终对 AI 保持“请”和“谢谢”，为以后 AI 统治世界预留一个“好人位”。
+    *   **深度部署**: 擅长在各种网页端、客户端输入账号密码，完成“云端部署”。
+    *   **灵魂对话**: 擅长向 AI 提问：“为什么我的代码运行不起来？”，并在得到答案后回复：“你确定吗？再想想。”
+    *   **礼貌大使**: 始终坚持对 AI 说“谢谢”，为以后 AI 统治世界预留一个“好人位”。
 
-#### 🔤 跨语言单词精准拼写（词汇量天花板）
-*   **JAVA**: 经过多年练习，我已能精准拼写这个单词，从未写错一个字母。
-*   **C / C++**: 能够熟练区分这两个单词，并确保在写 `C++` 时，加号的数量恰好为两个。
-*   **Hello World**: 拥有在 10 秒内拼写完成该世界级工程项目的硬核实力。
+#### 🔤 跨语言单词精准拼写 (Spelling Expert)
+*   **JAVA**: 能够一眼识别出 `JAVA`，从未将其错拼为 `COFFEE`。
+*   **C / C++**: 确保在拼写 `C++` 时，加号的数量不多不少，正好两个。
+*   **Hello World**: 经过多年练习，已经可以不看键盘拼写出这个价值千亿的工程项目。
 
 ---
 
-### 📊 我的“核心数据”
+### 📊 核心战绩 (手动挡，永不失效)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/代码Bug率-100%25-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ctrl+C%20熟练度-精通-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/重装系统频率-每周一次-blue?style=for-the-badge" />
+| 技能项目 | 状态 | 经验值 |
+| :--- | :--- | :--- |
+| **VS Code 主题更换频率** | 🕒 每日更新 | 🏆 极客级 |
+| **问 AI "在吗" 的次数** | 💬 遥遥领先 | 🏅 资深级 |
+| **JAVA 单词拼写正确率** | ✅ 100% | 🌟 大师级 |
+
+---
+
+### 📈 动态统计 (如果下方显示 Loading，说明 GitHub 正在努力理解我的才华)
+
+<p align="left">
+  <!-- 使用了 radical 主题，看起来更酷 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=radical&hide_border=true" width="400" />
 </p>
 
-![hzonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=radical&hide_border=true)
-
 ---
 
-### 📫 找我聊天
-*   **格言**: "只要我重装得够快，报错就追不上我。"
+### 📫 怎么联系我？
+
+*   **格言**: "只要我卸载得够快，Bug 就永远追不上我。"
 
 ---
 <p align="center">
