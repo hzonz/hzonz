@@ -31,21 +31,18 @@
 
 ---
 
-### 📊 核心战绩 (手动挡，永不失效)
+### 📊 我的“核心数据”
 
-| 技能项目 | 状态 | 经验值 |
-| :--- | :--- | :--- |
-| **VS Code 主题更换频率** | 🕒 每日更新 | 🏆 极客级 |
-| **问 AI "在吗" 的次数** | 💬 遥遥领先 | 🏅 资深级 |
-| **JAVA 单词拼写正确率** | ✅ 100% | 🌟 大师级 |
+![](https://img.shields.io/badge/代码Bug率-100%25-red?style=for-the-badge)
+![](https://img.shields.io/badge/Ctrl+C%20熟练度-精通-green?style=for-the-badge)
+![](https://img.shields.io/badge/重装系统频率-每周一次-blue?style=for-the-badge)
 
 ---
 
 ### 📈 动态统计 (如果下方显示 Loading，说明 GitHub 正在努力理解我的才华)
 
 <p align="left">
-  <!-- 使用了 radical 主题，看起来更酷 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=transparent&hide_border=true" width="400" />
 </p>
 
 ---
