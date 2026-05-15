@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="./README.md">English Version</a> | <strong>中文版</strong>
+</div>
+
 # 👋 嗨，我是 hzonz | 赛博空间的“拆迁与重建”大师
 
 <p align="center">
