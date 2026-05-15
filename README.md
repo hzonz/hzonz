@@ -28,12 +28,16 @@
 
 ---
 
-### 📈 Dynamic Stats (If it's Loading, GitHub is overwhelmed by my talent)
+### 📊 My "Vital" Stats
 
-<p align="left">
-  <!-- 即使没数据，这张图也会显示你的等级 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=radical&hide_border=true" width="400" />
-</p>
+![](https://img.shields.io/badge/Bug%20Probability-100%25-red?style=for-the-badge)
+![](https://img.shields.io/badge/Copy%20Paste%20Skill-Over%209000-green?style=for-the-badge)
+![](https://img.shields.io/badge/VS%20Code%20Reinstall%20Count-999-blue?style=for-the-badge)
+
+---
+
+### 📈 GitHub Activities
+![hzonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=radical)
 
 ---
 
