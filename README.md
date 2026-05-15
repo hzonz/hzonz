@@ -1,7 +1,7 @@
 # 👋 嗨，我是 hzonz | 一个掌握了“核心科技”的男人
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hzonz&label=被迫营业次数&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hzonz&label=%E8%A2%AB%E8%BF%AB%E8%90%A5%E4%B8%9A%E6%AC%A1%E6%95%B0&color=blue&style=flat" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 我的“核心数据” (手动更新版，拒绝报错)
+### 📊 我的“核心数据”
 
 <!-- 这里使用稳定的徽章替代动态图表，保证 100% 显示 -->
 ![](https://img.shields.io/badge/代码Bug率-100%25-red?style=for-the-badge)
