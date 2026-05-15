@@ -9,45 +9,47 @@
 ### 🛠️ 我的“硬核”技术栈
 
 #### 💿 软件生命周期管理 (Environment Specialist)
-*   **VS Code**: 资深安装与卸载专家。熟练掌握从 **Setup.exe** 到 **控制面板-卸载程序** 的全链路操作。曾创下全天反复安装 12 个不同主题而不写一行代码的最高纪录。
-*   **IntelliJ IDEA**: 擅长处理“试用期已到”的各种心理建设及应对方案。
-*   **Chrome**: 拥有同时开启 100 个标签页而不崩溃的（电脑）意志力。
+*   **VS Code**: 资深安装与卸载专家。精通从安装到卸载的全过程，擅长在还没写代码前先换 10 个颜色主题。
+*   **IntelliJ IDEA**: 熟练掌握“试用期倒计时”应对心理学。
+*   **浏览器**: 拥有同时开启 50 个 StackOverflow 页面而不迷失方向的意志力。
 
 #### 🤖 人工智能心理咨询 (AI Relationship Manager)
-*   **ChatGPT / Gemini / Claude**: 
-    *   精通各种 AI 的**本地部署与云端调教**（指：把 API Key 填进去）。
-    *   擅长与 AI 进行深度灵魂对话，包括但不限于：“在吗？”、“救救我”、“这段报错是啥意思？”以及“能不能帮我写个请假条？”。
-*   **Prompt Engineering**: 熟练掌握“请用中文回答”、“重试一下”等高阶指令。
+*   **ChatGPT / Gemini / Claude / Llama**: 
+    *   **全平台聊天大师**：精通与各种 AI 进行长达数小时的无意义对话。
+    *   **部署奇才**：擅长在电脑里塞满各种运行不起来的本地模型环境。
+    *   **核心指令**：熟练掌握 `请重新生成`、`你确定吗？`、`别废话，直接给代码`。
 
 #### 🔤 编程语言拼写大师 (Syntax & Spelling Expert)
-*   **C / C++**: 能够准确无误地拼写这两个单词，并精准区分 `C` 和 `C++` 多出来的两个 `+` 号。
-*   **JAVA**: 精通该单词的四个字母排列组合，从未将其错拼为 `AVAJ`。
-*   **Python**: 知道这个单词读“派森”而不是“劈头士”。
-*   **JavaScript**: 能够流利地告诉别人它和 Java 没啥亲戚关系。
+*   **C / C++**: 能够准确无误地拼写这两个单词，并确保不会把 `++` 写成 `--`。
+*   **JAVA**: 精通该单词的四个字母，从未将其写错（如拼成 JAVAA）。
+*   **Python**: 知道这个单词读“派森”，并且知道它的缩进比我的前途还重要。
 
 ---
 
-### 📊 我的“战绩”
+### 📊 我的“核心数据” (手动更新版，拒绝报错)
 
-| 技能 | 熟练度 | 备注 |
-| :--- | :--- | :--- |
-| 代码复制粘贴 (StackOverflow) | 🚀 专家 | 只要 Ctrl+C 够快，Bug 就追不上我 |
-| 环境变量配置 | 🛠️ 资深 | 每次配置都能引发新的报错 |
-| 摸鱼技术 | 🎣 满级 | 配合 VS Code 插件效果更佳 |
+<!-- 这里使用稳定的徽章替代动态图表，保证 100% 显示 -->
+![](https://img.shields.io/badge/代码Bug率-100%25-red?style=for-the-badge)
+![](https://img.shields.io/badge/CTRL+C%20熟练度-精通-green?style=for-the-badge)
+![](https://img.shields.io/badge/CTRL+V%20熟练度-入化-blue?style=for-the-badge)
+![](https://img.shields.io/badge/键盘磨损度-退格键已碎-orange?style=for-the-badge)
 
 ---
 
-### 📈 GitHub 统计 (虽然我更擅长卸载，但还是有点东西的)
+### 📈 GitHub 贡献 (如果显示不出来，那就是 GitHub 在嫉妒我的才华)
 
-![hzonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzonz&layout=compact&theme=radical)
+<!-- 如果还是想尝试动态图，我换了一组备选链接，尝试修复 -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hzonz&show_icons=true&theme=transparent&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzonz&layout=compact&theme=transparent&hide_border=true" width="300" />
+</p>
 
 ---
 
 ### 📫 找我聊天 (如果我没在重装系统的话)
 
 *   **GitHub**: [@hzonz](https://github.com/hzonz)
-*   **内心独白**: "我的代码不运行没关系，关键是我的环境必须得是刚装好的。"
+*   **内心独白**: "代码写得好不好不重要，软件卸载得快才是真本事。"
 
 ---
 <p align="center">
